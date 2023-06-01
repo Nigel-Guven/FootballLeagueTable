@@ -1,0 +1,73 @@
+﻿{
+  "Season": [
+    {
+      "RoundNumber": 1,
+      "Matches": [
+        {
+          "HomeTeam": "Algeria",
+          "AwayTeam": "Angola",
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
+        },
+        {
+          "HomeTeam": "Austria",
+          "AwayTeam": "Cameroon",
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
+        },
+        {
+          "HomeTeam": "Canada",
+          "AwayTeam": "Chile",
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 4
+        }
+      ]
+    },
+    {
+      "RoundNumber": 2,
+      "Matches": [
+        {
+          "HomeTeam": "Algeria",
+          "AwayTeam": "Cameroon",
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 0
+        },
+        {
+          "HomeTeam": "Austria",
+          "AwayTeam": "Chile",
+          "HomeTeamScore": 0,
+          "AwayTeamScore": 0
+        },
+        {
+          "HomeTeam": "Canada",
+          "AwayTeam": "Angola",
+          "HomeTeamScore": 0,
+          "AwayTeamScore": 4
+        }
+      ]
+    },
+    {
+      "RoundNumber": 2,
+      "Matches": [
+        {
+          "HomeTeam": "Algeria",
+          "AwayTeam": "Canada",
+          "HomeTeamScore": 0,
+          "AwayTeamScore": 3
+        },
+        {
+          "HomeTeam": "Chile",
+          "AwayTeam": "Cameroon",
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
+        },
+        {
+          "HomeTeam": "Angola",
+          "AwayTeam": "Austria",
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 3
+        }
+      ]
+    }
+  ]
+}
