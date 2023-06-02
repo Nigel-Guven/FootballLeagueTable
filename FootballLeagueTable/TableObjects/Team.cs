@@ -21,12 +21,15 @@ namespace FootballLeagueTable.Table
         {
             if (other == null)
                 return -1;
-            if (int.Parse((this.Points).ToString() + (this.GoalsFor).ToString() + (this.GoalsAgainst).ToString()) 
-                > int.Parse((other.Points).ToString() + (other.GoalsFor).ToString() + (other.GoalsAgainst).ToString()))
+            if(this.Points)
+            if (this.Points > other.Points && this.GoalsFor == other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
                 return -1;
-            else if (int.Parse((this.Points).ToString() + (this.GoalsFor).ToString() + (this.GoalsAgainst).ToString()) 
-                < int.Parse((other.Points).ToString() + (other.GoalsFor).ToString() + (other.GoalsAgainst).ToString()))
-                return 1;
+            if (this.Points == other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
+                return -1;
+            if (this.Points > other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
+                return -1;
+            if (this.Points > other.Points && this.GoalsFor < other.GoalsFor && this.GoalsAgainst > other.GoalsAgainst)
+                return -1;
             else
                 return 0;
         }

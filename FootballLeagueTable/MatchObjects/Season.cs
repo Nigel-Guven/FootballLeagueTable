@@ -6,6 +6,6 @@ namespace FootballLeagueTable.JsonObjects
     public class Season
     {
         [JsonProperty("Season")]
-        public IEnumerable<Round> Rounds { get; set; }
+        public List<Round> Rounds { get; set; }
     }
 }

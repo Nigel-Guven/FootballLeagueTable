@@ -1,9 +1,8 @@
-﻿using FootballLeagueTable.JsonObjects;
+﻿using FootballLeagueTable.Extensions;
+using FootballLeagueTable.JsonObjects;
 using FootballLeagueTable.Table;
 using Newtonsoft.Json;
-using System;
-using System.Collections;
-using System.Data;
+using System.Collections.Generic;
 using System.IO;
 
 namespace FootballLeagueTable
@@ -12,66 +11,49 @@ namespace FootballLeagueTable
     {
         static void Main(string[] args)
         {
-            var matchData = LoadMatchesJson();
-            var teamData = LoadTeamsJson();
-
-            var season = JsonConvert.DeserializeObject<Season>(matchData);
-            var table = JsonConvert.DeserializeObject<GroupTable>(teamData);
-
-            CalculateTable(season, table);
-
-        }
-
-        private static void CalculateTable(Season season, GroupTable table)
-        {
-            foreach(Round round in season.Rounds)
-            {
-                foreach(Match match in round.Matches)
+            //List teams that are playing in the league
+            List<string> teams = new List<string>
                 {
-                    //Console.WriteLine(match.HomeTeam + " " + match.HomeTeamScore +  " - " + match.AwayTeamScore + " " + match.AwayTeam);
-                    if (match.HomeTeamScore > match.AwayTeamScore)
-                    {
-                        table.UpdateTableHomeWin(match);
-                    }
-                    else if (match.HomeTeamScore < match.AwayTeamScore)
-                    {
-                        table.UpdateTableAwayWin(match);
-                    }
-                    else
-                        table.UpdateTableDraw(match);
-                }
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
+                    "Algeria",
+                    "Angola",
+                    "Austria",
+                    "Cameroon",
+                    "Canada",
+                    "Chile",
+                    "Costa Rica",
+                    "Czechia",
+                    "Ecuador",
+                    "Egypt",
+                    "Hungary",
+                    "Ireland",
+                    "Ivory Coast",
+                    "Japan",
+                    "New Zealand",
+                    "Nigeria",
+                    "Norway",
+                    "Paraguay",
+                    "Peru",
+                    "Romania",
+                    "Saudi Arabia",
+                    "Scotland",
+                    "Tunisia",
+                    "Turkey"
+            };
 
-                table.SortList();
-
-                table.PrintTable();
-            }
-        }
-
-
-
-        public static string LoadMatchesJson()
-        {
-            string json = "";
-            using (StreamReader r = new StreamReader("../../MatchFiles/GroupB/GroupBMatches.json"))
+            //Prevent Overwriting each time
+            if(DataEx.CheckIfFileIsEmpty(@"../../MatchFiles/LeagueMatches.json"))
             {
-                json = r.ReadToEnd();
+                Season season = DataEx.GenerateSeason(teams);
+                string jsonPayload = JsonConvert.SerializeObject(season);
+                File.WriteAllText(@"../../MatchFiles/LeagueMatches.json", jsonPayload);
             }
 
-            return json;
-        }
+            var matchData = JsonEx.LoadMatchesJson();
+            var teamData = JsonEx.LoadTeamsJson();
 
-        public static string LoadTeamsJson()
-        {
-            string json = "";
-            using (StreamReader r = new StreamReader("../../MatchFiles/GroupB/GroupBTeams.json"))
-            {
-                json = r.ReadToEnd();
-            }
-
-            return json;
+            var season2 = JsonConvert.DeserializeObject<Season>(matchData);
+            var table = JsonConvert.DeserializeObject<GroupTable>(teamData);
+            MatchEx.CalculateTable(season2, table);
         }
     }
 }

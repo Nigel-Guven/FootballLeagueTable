@@ -74,10 +74,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithm\FixtureCreator.cs" />
+    <Compile Include="Extensions\DataEx.cs" />
+    <Compile Include="Extensions\MatchEx.cs" />
+    <Compile Include="Extensions\JsonEx.cs" />
     <Compile Include="MatchObjects\Match.cs" />
     <Compile Include="MatchObjects\Round.cs" />
     <Compile Include="MatchObjects\Season.cs" />
-    <None Include="MatchFiles\GroupB\GroupBTeams.json" />
+    <None Include="MatchFiles\LeagueTeams.json" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TableObjects\GroupTable.cs" />
@@ -85,8 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="MatchFiles\GroupB\GroupBMatches.json" />
+    <None Include="MatchFiles\LeagueMatches.json" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
