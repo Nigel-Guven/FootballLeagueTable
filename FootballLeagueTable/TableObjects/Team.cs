@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
 
 namespace FootballLeagueTable.Table
 {
@@ -16,6 +17,9 @@ namespace FootballLeagueTable.Table
 
         [JsonProperty("GoalsAgainst")]
         public int GoalsAgainst { get; set; }
+
+        [JsonProperty("Performance")]
+        public string Performance { get; set; }
 
         public int CompareTo(Team other)
         {

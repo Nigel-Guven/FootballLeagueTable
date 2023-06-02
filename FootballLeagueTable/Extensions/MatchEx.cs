@@ -30,7 +30,7 @@ namespace FootballLeagueTable.Extensions
                 Console.WriteLine("");
 
                 table.SortList();
-
+                Console.WriteLine("Round Number: " + round.RoundNumber);
                 table.PrintTable();
             }
         }
