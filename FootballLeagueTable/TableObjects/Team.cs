@@ -19,17 +19,47 @@ namespace FootballLeagueTable.Table
 
         public int CompareTo(Team other)
         {
+            // Other is NULL
             if (other == null)
                 return -1;
-            if(this.Points)
-            if (this.Points > other.Points && this.GoalsFor == other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
+
+            // Points are greater
+            if (this.Points > other.Points)
                 return -1;
+            // Points are lesser
+            if (this.Points < other.Points)
+                return 1;
+
+            // Points Equal Goals For Equal, Goals Against Equal
+            if (this.Points == other.Points && this.GoalsFor == other.GoalsFor && this.GoalsAgainst == other.GoalsAgainst)
+                return 0;
+
+            // Points Equal Goals For More, Goals Against More
+            if (this.Points == other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst > other.GoalsAgainst)
+                return -1;
+            // Points Equal Goals For More, Goals Against Equal
+            if (this.Points == other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst == other.GoalsAgainst)
+                return -1;
+            // Points Equal Goals For More, Goals Against Less
             if (this.Points == other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
                 return -1;
-            if (this.Points > other.Points && this.GoalsFor > other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
+            // Points Equal Goals For Equal, Goals Against Less
+            if (this.Points == other.Points && this.GoalsFor == other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
                 return -1;
-            if (this.Points > other.Points && this.GoalsFor < other.GoalsFor && this.GoalsAgainst > other.GoalsAgainst)
-                return -1;
+
+            // Points Equal Goals For Equal, Goals Against More
+            if (this.Points == other.Points && this.GoalsFor == other.GoalsFor && this.GoalsAgainst > other.GoalsAgainst)
+                return 1;
+            // Points Equal Goals For Less, Goals Against More
+            if (this.Points == other.Points && this.GoalsFor < other.GoalsFor && this.GoalsAgainst > other.GoalsAgainst)
+                return 1;
+            // Points Equal Goals For Less, Goals Against Equal
+            if (this.Points == other.Points && this.GoalsFor < other.GoalsFor && this.GoalsAgainst == other.GoalsAgainst)
+                return 1;
+            // Points Equal Goals For Less, Goals Against Less
+            if (this.Points == other.Points && this.GoalsFor < other.GoalsFor && this.GoalsAgainst < other.GoalsAgainst)
+                return 1;
+            // Else Equal
             else
                 return 0;
         }
