@@ -31,7 +31,7 @@ namespace FootballLeagueTable.Extensions
 
                 table.SortList();
                 Console.WriteLine("Round Number: " + round.RoundNumber);
-                table.PrintTable();
+                table.PrintTable(round);
             }
         }
     }

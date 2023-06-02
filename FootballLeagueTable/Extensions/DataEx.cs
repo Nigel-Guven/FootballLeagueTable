@@ -11,7 +11,7 @@ namespace FootballLeagueTable.Extensions
         public static Season GenerateSeason(List<string> teams)
         {
             var x = FixtureCreator.ListMatches(teams);
-            int i = 0;
+            int i = 1;
             
             List<Round> rounds = new List<Round>();
             foreach (List<Tuple<string, string>> valueX in x)

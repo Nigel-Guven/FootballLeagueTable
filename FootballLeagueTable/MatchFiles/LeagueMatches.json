@@ -622,20 +622,20 @@
         {
           "HomeTeam": "Saudi Arabia",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Scotland",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Tunisia",
           "AwayTeam": "Peru",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Turkey",
@@ -646,50 +646,50 @@
         {
           "HomeTeam": "Ireland",
           "AwayTeam": "Norway",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "New Zealand",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Japan",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Ivory Coast",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 3,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Angola",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 4,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Austria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Cameroon",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 2
         }
       ]
     },
@@ -700,73 +700,73 @@
           "HomeTeam": "Scotland",
           "AwayTeam": "Algeria",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Tunisia",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Turkey",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ireland",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Norway",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "New Zealand",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Japan",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Ivory Coast",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Angola",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Austria",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         }
       ]
     },
@@ -788,62 +788,62 @@
         {
           "HomeTeam": "Ireland",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 3,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Paraguay",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Norway",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "New Zealand",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Japan",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Ivory Coast",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Angola",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 7,
+          "AwayTeamScore": 1
         }
       ]
     },
@@ -851,75 +851,76 @@
       "RoundNumber": 11,
       "Matches": [
         {
+
           "HomeTeam": "Turkey",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Ireland",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Scotland",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 3,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 4
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Norway",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "New Zealand",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Japan",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Ivory Coast",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         }
       ]
@@ -931,67 +932,67 @@
           "HomeTeam": "Ireland",
           "AwayTeam": "Algeria",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Turkey",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Scotland",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 5,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Norway",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "New Zealand",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ivory Coast",
@@ -1007,73 +1008,73 @@
         {
           "HomeTeam": "Hungary",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 3,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Ireland",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Turkey",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Scotland",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Romania",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Peru",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 4
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Norway",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "New Zealand",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 3,
           "AwayTeamScore": 0
         }
       ]
@@ -1084,43 +1085,43 @@
         {
           "HomeTeam": "Egypt",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Ecuador",
           "AwayTeam": "Hungary",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Ireland",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Turkey",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Scotland",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
@@ -1132,26 +1133,26 @@
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "Norway",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "New Zealand",
           "AwayTeam": "Nigeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         }
       ]
     },
@@ -1162,24 +1163,24 @@
           "HomeTeam": "Ecuador",
           "AwayTeam": "Algeria",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Egypt",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Hungary",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Ireland",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
@@ -1191,44 +1192,44 @@
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Scotland",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "New Zealand",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Nigeria",
           "AwayTeam": "Norway",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         }
       ]
     },
@@ -1238,26 +1239,26 @@
         {
           "HomeTeam": "Czechia",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Ecuador",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 5,
+          "AwayTeamScore": 5
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Egypt",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Hungary",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Cameroon",
@@ -1269,43 +1270,43 @@
           "HomeTeam": "Austria",
           "AwayTeam": "Turkey",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Scotland",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "Saudi Arabia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "New Zealand",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Nigeria",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 4,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Norway",
           "AwayTeam": "Paraguay",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
         }
       ]
     },
@@ -1315,20 +1316,20 @@
         {
           "HomeTeam": "Costa Rica",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Czechia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Ecuador",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Cameroon",
@@ -1340,48 +1341,48 @@
           "HomeTeam": "Austria",
           "AwayTeam": "Hungary",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Ireland",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Turkey",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "New Zealand",
           "AwayTeam": "Scotland",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Nigeria",
           "AwayTeam": "Saudi Arabia",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Norway",
           "AwayTeam": "Romania",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Paraguay",
           "AwayTeam": "Peru",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         }
       ]
@@ -1392,74 +1393,74 @@
         {
           "HomeTeam": "Chile",
           "AwayTeam": "Algeria",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Canada",
           "AwayTeam": "Costa Rica",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 1,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Cameroon",
           "AwayTeam": "Czechia",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 2,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Austria",
           "AwayTeam": "Ecuador",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 3,
+          "AwayTeamScore": 2
         },
         {
           "HomeTeam": "Angola",
           "AwayTeam": "Egypt",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 3
         },
         {
           "HomeTeam": "Ivory Coast",
           "AwayTeam": "Hungary",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Japan",
           "AwayTeam": "Ireland",
-          "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "HomeTeamScore": 1,
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "New Zealand",
           "AwayTeam": "Turkey",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Nigeria",
           "AwayTeam": "Tunisia",
-          "HomeTeamScore": 0,
+          "HomeTeamScore": 2,
           "AwayTeamScore": 0
         },
         {
           "HomeTeam": "Norway",
           "AwayTeam": "Scotland",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Paraguay",
           "AwayTeam": "Saudi Arabia",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         },
         {
           "HomeTeam": "Peru",
           "AwayTeam": "Romania",
           "HomeTeamScore": 0,
-          "AwayTeamScore": 0
+          "AwayTeamScore": 1
         }
       ]
     },
