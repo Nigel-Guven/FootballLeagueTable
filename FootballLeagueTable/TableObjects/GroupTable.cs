@@ -87,11 +87,11 @@ namespace FootballLeagueTable.Table
         {
             int totalRounds = 22;
             int maxPointsLeft = (totalRounds - round.RoundNumber) * 3;
-
-            Console.WriteLine(maxPointsLeft);
             if (team.Points > Teams[1].Points + maxPointsLeft
                 && team == Teams[0])
-                return "WINS LEAGUE";
+                return "PROMOTED AND WINS LEAGUE";
+            if (team.Points > Teams[4].Points + maxPointsLeft)
+                return "PROMOTED";
             else if (team.Points + maxPointsLeft < Teams[19].Points)
                 return "RELEGATED";
             else
